@@ -1,0 +1,1 @@
+let () = QCheck_runner.run_tests_main Test_model.Tests.suite

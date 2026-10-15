@@ -1,0 +1,6 @@
+(library
+ (name test_model)
+ (public_name onitama.test_model)
+ (libraries onitama.model qcheck)
+ (modules tests test_color test_player test_card test_piece test_game_state
+ test_board))

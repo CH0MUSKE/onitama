@@ -1,0 +1,4 @@
+(executable
+ (public_name onitama)
+ (name main)
+ (libraries onitama.controller onitama.model onitama.UI))

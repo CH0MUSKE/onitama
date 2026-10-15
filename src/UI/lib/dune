@@ -1,0 +1,5 @@
+(library
+ (name UI)
+ (public_name onitama.UI)
+ (modules game_view prompt)
+ (libraries onitama.model))

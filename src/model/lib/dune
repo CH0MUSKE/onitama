@@ -1,0 +1,4 @@
+(library
+ (name model)
+ (public_name onitama.model)
+ (modules card board player piece color game_state))
